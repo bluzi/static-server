@@ -38,6 +38,8 @@ Exposes the StaticServer class
 */
 module.exports = StaticServer;
 
+throw new Error("test error"); 
+
 
 /**
 Create a new instance of StaticServer class
