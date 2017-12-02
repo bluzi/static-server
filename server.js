@@ -38,7 +38,7 @@ Exposes the StaticServer class
 */
 module.exports = StaticServer;
 
-throw new Error("test error");
+throw new Error("test error"); 
 
 
 /**
